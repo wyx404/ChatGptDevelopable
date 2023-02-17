@@ -1,0 +1,2 @@
+# ChatGptDevelopable
+对于ChatGpt进行一个第三方页面的转接
